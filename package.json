@@ -1,0 +1,19 @@
+{
+  "name": "problema_4",
+  "version": "1.0.0",
+  "description": "Problema 4: Dado un arreglo de números cualesquiera sacar la siguiente información:",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandroveroninf/Problema_4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leandroveroninf/Problema_4/issues"
+  },
+  "homepage": "https://github.com/leandroveroninf/Problema_4#readme"
+}
